@@ -1,7 +1,7 @@
 [//]: # (References)
 [//]: # (\bibliography{path/to/yout/references})
 
-** News: Source code and pretrained models of three new hyperbolic graph convolutional networks (HGCN, HKGCN and HKGAT) have been added! March 05, 2025
+** News: Source code and pretrained models of three new graph convolutional networks (HGCN, HKGCN, and HKGAT) defined in hyperbolic space have been added! March 05, 2025
 
 # ACTION-Software-for-Functional-MRI-Analysis
 
