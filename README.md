@@ -3,7 +3,7 @@
 
 
 # News: 
- March 05, 2025: Source code and pretrained models of three new graph convolutional networks (HGCN, HKGCN, and HKGAT) defined in hyperbolic space have been added! March 05, 2025
+March 05, 2025: Source code and pretrained models of three new graph convolutional networks (HGCN, HKGCN, and HKGAT) defined in hyperbolic space have been added! March 05, 2025
 
 
 
