@@ -82,7 +82,7 @@ This module focuses on (1) pretraining foundation models that can easily adapt t
 
 ### Pretrained Foundation Model
 
-In this project, we pretrain several popular graph convolutional networks on auxiliary fMRI scans. The pretrained models include:
+In this project, we pretrain several popular graph convolutional networks on resging-state functional MRI scans. The pretrained models include:
 
 1. Graph Convolutional Network (GCN)
 2. Graph Attention Network (GAT)
