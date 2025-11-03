@@ -146,7 +146,7 @@ Users can also employ other backbone models for federated learning.
 [LGFedAvg](https://github.com/pliang279/LG-FedAvg).
 
 # Contact
-If you have any problem with our code or have some suggestions, please feel free to contact us: 
+If you have any problems with our code or have some suggestions, please feel free to contact us: 
 - Qianqian Wang (qqw@email.unc.edu)
 - Mingxia Liu (mingxia_liu@med.unc.edu)
 
@@ -159,6 +159,8 @@ If you use this toolbox in your research, please cite this paper:
   author = {Fang, Yuqi and Zhang, Junhao and Wang, Linmin and Wang, Qianqian and Liu, Mingxia},  
   title = {ACTION: Augmentation and computation toolbox for brain network analysis with functional MRI},  
   journal = {NeuroImage},
+  volume = {35},
+  pages = {120967},
   year = {2025}
 }
 ```
